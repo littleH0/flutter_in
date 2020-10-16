@@ -25,7 +25,8 @@ import 'package:flutter/material.dart';
 // import 'exers/animations/testScaleTransition.dart';
 // import 'package:flutter_in/util/testTimersInit.dart';
 // import 'package:flutter_in/util/testTimerUtils.dart';
-import 'package:flutter_in/exerCountDown/testCountdownWidget.dart';
+// import 'package:flutter_in/exerCountDown/testCountdownWidget.dart';
+import 'package:flutter_in/util/testFlui.dart';
 
 void main() {
   // var testProvide = TestProvide();
@@ -34,7 +35,20 @@ void main() {
   // providers..provide(Provider<TestProvide>.value(testProvide));
   // providers..provide(Provider<TestProvide1>.value(testProvide1));
 
+  // Map tempMap = Map();
+  // print(tempMap);
+  // tempMap["0"] = 0;
+  // tempMap["1"] = 1;
+  // tempMap["2"] = 2;
+  // print(tempMap);
+  // tempMap.clear();
+  // print(tempMap);
+  // print(tempMap == null);     // false
+  // print(tempMap.isEmpty);     // true
+  // print(tempMap.isNotEmpty);  // false
+
   runApp(Demo());
+
   // runApp(ProviderNode(child: Demo(),providers: providers,));
 }
 

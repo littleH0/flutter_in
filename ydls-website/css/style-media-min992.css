@@ -1,0 +1,14 @@
+
+/* Min-width width 992px */
+@media (min-width: 992px) {
+	
+	
+	.header-div h5{
+		font: 400 0.525rem/1.275rem "Montserrat", sans-serif;
+	}
+	.p-large{
+		font: 400 0.625rem/1.2rem "Open Sans", sans-serif;
+	}
+	
+}
+/* end of min-width width 992px */

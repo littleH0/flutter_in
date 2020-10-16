@@ -1,0 +1,24 @@
+/* Min-width width 768px */
+@media (min-width: 768px) {
+	
+	.p-large{
+		font: 400 0.525rem/1.2rem "Open Sans", sans-serif;
+	}
+	
+	/* General Styles */
+	h1 {
+		margin-bottom: 2rem;
+		font: 700 5.25rem/5.75rem "Montserrat", sans-serif;
+	}
+	h5 {
+		font: 700 0.425rem/1.275rem "Montserrat", sans-serif;
+	}
+	.header-div h5{
+		font: 400 0.525rem/1.275rem "Montserrat", sans-serif;
+	}
+	/* end of general styles */
+	
+
+}
+/* end of min-width width 768px */
+

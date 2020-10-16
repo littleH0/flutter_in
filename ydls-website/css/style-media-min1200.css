@@ -1,0 +1,34 @@
+
+
+/* Min-width width 1200px */
+@media (min-width: 1200px) {
+	
+	
+	h4 {
+		font: 700 1.0rem/1.5rem "Montserrat", sans-serif;
+	}
+	
+	/* Header */
+	
+	.header-div h5 {
+		margin-top: 6%;
+		font: 400 0.8rem/1.2rem "Montserrat", sans-serif;
+	}
+	
+	.header .header-content .container .en-des{
+		max-width: 36%;
+		margin-bottom: 80px;
+		font: 400 0.4rem/1.2rem "Montserrat", sans-serif;
+	}
+	/* end of Header */
+	
+	/* main-content */
+	.detail-div{
+		max-width: 90%;
+	}
+	.main-txt .txt3{
+		font: 400 0.6rem/1.175rem "Montserrat", sans-serif;
+	}
+	/* end of main-content */
+}
+/* end of min-width width 1200px */
